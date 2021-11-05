@@ -18,7 +18,7 @@ from DaisyXMusic.config import ASSISTANT_NAME, PROJECT_NAME
 
 
 class Messages:
-    START_MSG = "**Yooo I'm Takt🙃[{}](tg://user?id={})!**\n\n🤖 I am a poweful conductor & a Musician Who can Play any Song You Want 😏✌❤.\n\n✅ Send me /help for more info."
+    START_MSG = "**Yooo I'm Takt[🙃](https://telegra.ph/file/0949cc3fc7cc4836367c0.jpg)[{}](tg://user?id={})!**\n\n 🖤I am a poweful conductor & a Musician Who can Play any Song You Want 😏✌❤.\n\n✅ Send me /help for more info."
     HELP_MSG = [
         ".",
         f"""
